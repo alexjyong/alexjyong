@@ -8,6 +8,7 @@ I like to make things that help people. 💙
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alex-j-yong/" target="blank">My LinkedIn Profile!</a>
+alexjyong(at)gmail(dot)com
 </p>
 
 <!--
