@@ -10,7 +10,7 @@ I like to make things that help people. 💙
 <a href="https://www.linkedin.com/in/alex-j-yong/" target="blank">My LinkedIn Profile!</a>
 </p>
 <p align='left'>
-alexjyong(at)gmail(dot)com
+You can email me at alexjyong(at)gmail(dot)com
 </p>
 
 <!--
