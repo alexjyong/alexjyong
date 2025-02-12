@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+I am Alex, a software and devops engineer from the US Midwest. 
+
+I like to make things that help people. 💙
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/alex-j-yong/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alex-yong" height="30" width="40" /></a>
+</p>
+
 <!--
 **alexjyong/alexjyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
