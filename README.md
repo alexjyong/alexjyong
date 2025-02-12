@@ -7,7 +7,7 @@ I like to make things that help people. 💙
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alex-j-yong/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alex-yong" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alex-j-yong/" target="blank">My LinkedIn Profile!</a>
 </p>
 
 <!--
