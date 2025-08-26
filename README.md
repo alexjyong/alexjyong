@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 
 I am Alex, a software and devops engineer from the US Midwest. 
