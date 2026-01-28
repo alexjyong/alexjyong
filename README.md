@@ -13,8 +13,6 @@ I like to make things that help people. 💙
 You can email me at alexjyong(at)gmail(dot)com
 </p>
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexjyong)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **alexjyong/alexjyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
